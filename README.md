@@ -28,5 +28,5 @@ The process of coming up with the idea to developing the entire infrastructure a
 
 ## What's next for MATDAAN
 
-MATDAAN blockchain system currently has the ability to scale to an extremely large scale. However, for MATDAAN to be used on a mass scale, it must be further optimized from a verification perspective. Through further development on improving the integration between the SMS messaging and the verification system, we can make DiVA a more seamless system.
+MATDAAN blockchain system currently has the ability to scale to an extremely large scale. However, for MATDAAN to be used on a mass scale, it must be further optimized from a verification perspective. Through further development on improving the integration between the SMS messaging and the verification system, we can make MATDAAN a more seamless system.
 MATDAAN main purpose was to be used in an election system. However, MATDAAN has the potential to be used in many different areas. In recent years we have seen more attention towards ensuring everyones voice is heard and that we engage in processes which promote equality. With MATDAAN, we are able to offer a platform for groups people to share their thoughts and ideas in an impactful way, while ensuring their voice is heard.
