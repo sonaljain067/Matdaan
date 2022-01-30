@@ -1,0 +1,60 @@
+.body {
+  background-color: #080060;
+  height: 100vh;
+  width: 100%;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+.aunty {
+  width: 100%;
+  height: 100vh;
+  left: 720px;
+  top: 0px;
+}
+
+.textBoldWhite {
+  margin-top: 30%;
+  margin-bottom: auto;
+  margin-left: 20%;
+
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 61px;
+
+  color: #ffffff;
+}
+
+.buttonGold {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 40px;
+  margin-left: 20%;
+  padding: 18px 60px;
+  width: 208px;
+  height: 61px;
+  background: #fbb569;
+  border-radius: 30px;
+}
+
+@media screen and (max-width: 400px) {
+  .textBoldWhite {
+    margin-top: 50%;
+    margin-bottom: auto;
+    margin-left: 5%;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 61px;
+    padding: 0px;
+    color: #ffffff;
+  }
+  .aunty {
+    visibility: hidden;
+  }
+}
