@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "ethereumjs-testrpc": "^6.0.3",
-    "ganache-cli": "^6.12.2",
-    "solc": "^0.6.4",
-    "web3": "^1.2.6"
-  }
-}
