@@ -10,7 +10,7 @@ This COVID-19 Pandemic has made us stick to our home. Companies started work fro
 MATDAAN is a decentralized voting system that uses blockchain technology to store ballots users have to register themself on the web portal using their verifiable IDs issued by the respective government. Once we verify them using Azure credentials, they will enter the Electronic polling booth through which they can cast their vote respectively. After someone has casted their vote we will issue a certificate consisting of the representative they have opted for
 
 ## How We Built It
-We built it using FIGMA, HTML, CSS , React
+We built it using React, Solidity, CSS, Figma, Truffle
 
 ## Challenges we ran into
 
